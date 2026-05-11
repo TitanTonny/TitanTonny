@@ -45,4 +45,5 @@ Linux sunucu yönetimi, hosting altyapıları, Docker ortamları, otomasyon scri
 
 ## 📫 İletişim
 
-- Mail: erdemkaya4833@gmail.com
+- Mail: erdem@ekaya.tr
+  

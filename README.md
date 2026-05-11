@@ -4,7 +4,10 @@
 
 I work on Linux server management, hosting infrastructure, Docker environments, automation scripts, monitoring systems, and cybersecurity fundamentals.
 
+---
+
 ## 🔧 Technologies & Tools
+
 - Linux
 - Docker
 - Docker Compose
@@ -17,15 +20,29 @@ I work on Linux server management, hosting infrastructure, Docker environments, 
 - Grafana
 - Prometheus
 
+---
+
 ## 🚀 Current Focus
+
 - Linux infrastructure
 - Hosting automation
 - Monitoring systems
 - DevOps fundamentals
 - Security hardening
 
-## 📌 Featured Projects
-- Linux server setup automation
-- Docker homelab stacks
-- Monitoring dashboards
-- Hosting automation scripts
+---
+
+## 📌 Featured Areas
+
+- Linux Server Administration
+- Hosting Infrastructure
+- Monitoring Dashboards
+- Backup Automation
+- Security Hardening
+- Docker Environments
+
+---
+
+## 📫 Contact
+
+- Email: erdem@ekaya.tr

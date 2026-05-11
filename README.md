@@ -1,12 +1,12 @@
-# Hi, I'm Erdem Kaya 👋
+# Merhaba, ben Erdem Kaya 👋
 
 ## System & Hosting Specialist
 
-I work on Linux server management, hosting infrastructure, Docker environments, automation scripts, monitoring systems, and cybersecurity fundamentals.
+Linux sunucu yönetimi, hosting altyapıları, Docker ortamları, otomasyon scriptleri ve monitoring sistemleri üzerine çalışıyorum.
 
 ---
 
-## 🔧 Technologies & Tools
+## 🔧 Kullandığım Teknolojiler
 
 - Linux
 - Docker
@@ -22,27 +22,27 @@ I work on Linux server management, hosting infrastructure, Docker environments, 
 
 ---
 
-## 🚀 Current Focus
+## 🚀 Şu Anda Odaklandığım Alanlar
 
-- Linux infrastructure
-- Hosting automation
-- Monitoring systems
-- DevOps fundamentals
-- Security hardening
+- Linux altyapıları
+- Hosting otomasyonu
+- Monitoring sistemleri
+- DevOps temelleri
+- Güvenlik sıkılaştırma (hardening)
 
 ---
 
-## 📌 Featured Areas
+## 📌 İlgi Alanlarım
 
 - Linux Server Administration
 - Hosting Infrastructure
-- Monitoring Dashboards
-- Backup Automation
-- Security Hardening
 - Docker Environments
+- Backup Automation
+- Monitoring Dashboards
+- Security Hardening
 
 ---
 
-## 📫 Contact
+## 📫 İletişim
 
-- Email: erdem@ekaya.tr
+- Mail: erdemkaya4833@gmail.com
